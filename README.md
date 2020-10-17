@@ -1,2 +1,10 @@
 # Readme-Demo
-##Second headLine
+## Second headLine
+
+_Italic_
+
+**Bold Name**
+
+~~MiddleLine~~ **9000**
+
+
