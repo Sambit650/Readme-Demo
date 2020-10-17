@@ -32,11 +32,9 @@ print(value)
 
 1. List one
 2. List Two
-1. List Three
+3. List Three
 
 
 - Bullet List one 
 - Bullet List Two
-|   Sub list
-|   Sub List two
-|       sub sub List
+   - Sub Bullet mark
