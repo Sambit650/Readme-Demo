@@ -8,5 +8,5 @@ _Italic_
 ~~MiddleLine~~ **9000**
 
 Link
-[Visit it](https://google.com) "For Deatils"
+[Visit it](https://google.com "For Deatils")
 
