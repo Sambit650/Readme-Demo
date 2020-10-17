@@ -27,8 +27,9 @@ print(value)
 |--- |--- |---- |
 |Sambit |Das |sambit650@gmail.com |
 |Bhabani |Behera |bbs@gmail.com |
+|Debashish |Das |deba@gmail.com |
 
->Keep Smiling and work harder
+> Keep Smiling and work harder
 
 ## Horizontal Line
 ---
@@ -46,3 +47,5 @@ print(value)
 ## Again for Horizonatal Line
 
 ***
+
+>Color mark
