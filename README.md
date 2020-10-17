@@ -50,7 +50,10 @@ print(value)
 
 >Color mark
 
-* First Name
+* Name
+  * First Name
+  * Middle Name
+  * Last Name
 * Email address
 * Mobile Number
 * PAN Card Number
