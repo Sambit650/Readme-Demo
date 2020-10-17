@@ -49,3 +49,9 @@ print(value)
 ***
 
 >Color mark
+
+* First Name
+* Email address
+* Mobile Number
+* PAN Card Number
+
