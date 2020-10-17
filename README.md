@@ -14,3 +14,10 @@ Image
 ![Sambit](https://firebasestorage.googleapis.com/v0/b/videostreaming-33685.appspot.com/o/sam.jpeg?alt=media&token=5b09450c-1cbc-47f3-8520-22abcb17f72a "My Image")
 
 Use `for` loop
+
+```Swift
+var name: String = "Sambit Das"
+for value in name{
+print(value)
+}
+```
