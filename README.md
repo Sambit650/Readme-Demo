@@ -32,6 +32,8 @@ print(value)
 
 1. List one
 2. List Two
-3. List Three
+1. List Three
 
 
+- Bullet List one 
+- Bullet List Two
