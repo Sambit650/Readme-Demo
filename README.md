@@ -31,6 +31,10 @@ print(value)
 |Bhabani |Behera |bbs@gmail.com |
 |Debashish |Das |deba@gmail.com |
 
+1-10 |20-30 |30-40 |
+|--- |--- |--- |
+|<ul><li>[X] day 10</li></ul> |<ul><li>[X] day 20</li></ul> |<ul><li>[X] day 30</li></ul> |
+
 > Keep Smiling and work harder
 
 ## Horizontal Line
