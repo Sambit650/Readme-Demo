@@ -35,6 +35,8 @@ print(value)
 |--- |--- |--- |
 |<ul><li>[X] day 10</li></ul> |<ul><li>[X] day 20</li></ul> |<ul><li>[X] day 30</li></ul> |
 
+- [ ] One
+
 > Keep Smiling and work harder
 
 ## Horizontal Line
